@@ -28,7 +28,7 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
         you should add Ruby to your toolbox.
       </p>},
   image_url: 'ruby.jpg',
-  price: 49.95)
+  price: 66.95)
 # . . .
 
 Product.create!(title: 'Rails Test Prescriptions',
